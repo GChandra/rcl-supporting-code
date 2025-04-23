@@ -1,0 +1,3 @@
+﻿n,p,tnsr,rho,beta,family,k,structure
+700,1000,0.33,0.7,0.8,binomial,2,block
+700,1000,0.33,0.7,0.8,binomial,2,diag

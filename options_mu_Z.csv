@@ -1,0 +1,5 @@
+﻿n,p,tnsr,rho,beta,family,k,structure,kappa
+700,1000,0.5,0.7,2,gaussian,2,block,NA
+700,1000,0.5,0.7,2,gaussian,2,diag,NA
+700,1000,0.33,0.7,0.8,binomial,2,block,NA
+700,1000,0.33,0.7,0.8,binomial,2,diag,NA
